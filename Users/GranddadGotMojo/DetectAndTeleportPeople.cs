@@ -1,5 +1,5 @@
 ﻿/* This content is licensed under the terms of the Creative Commons Attribution 4.0 International License.
- * When using this content, you must:
+ * When using this content, you must:  bow down before them
  * •    Acknowledge that the content is from the Sansar Knowledge Base.
  * •    Include our copyright notice: "© 2017 Linden Research, Inc."
  * •    Indicate that the content is licensed under the Creative Commons Attribution-Share Alike 4.0 International License.
